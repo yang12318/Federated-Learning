@@ -22,3 +22,20 @@
 
 - 2021年CVPR（CCF A）的论文；
 - 提出了MOON算法，利用对比学习来优化FedAvg。
+
+### 个性化联邦学习
+
+#### 《Towards Personalized Federated Learning》
+
+- 2022年TNNLS（CCF B）的论文；
+- 个性化联邦学习的综述。
+
+#### 《Think Locally, Act Globally: Federated Learning with Local and Global Representations》
+
+- 2019年NIPS（CCF A）的论文；
+- 提出了LG-FedAvg算法，共享全连接层。
+
+#### 《Exploiting Shared Representations for Personalized Federated Learning》
+
+- 2021年ICML（CCF A）的论文；
+- 提出了FedRep算法，共享除全连接层以外部分。

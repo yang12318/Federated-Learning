@@ -39,3 +39,13 @@
 
 - 2021年ICML（CCF A）的论文；
 - 提出了FedRep算法，共享除全连接层以外部分。
+
+#### 《Ditto: Fair and Robust Federated Learning Through Personalization》
+
+- 2021年ICML（CCF A）的论文；
+- 提出了Ditto算法，引入正则项平衡公平性和鲁棒性要求。
+
+#### 《FedProto: Federated Prototype Learning across Heterogeneous Clients》
+
+- 2022年AAAI（CCF A）的论文；
+- 提出了FedProto算法，是小样本联邦学习。

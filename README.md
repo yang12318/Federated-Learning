@@ -49,3 +49,43 @@
 
 - 2022年AAAI（CCF A）的论文；
 - 提出了FedProto算法，是小样本联邦学习。
+
+### 联邦学习防御
+
+#### 《Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates》
+
+- 2018年ICML（CCF A）的论文；
+- 一些基础的后门攻击防御方法。
+
+#### 《The Limitations of Federated Learning in Sybil Settings》
+
+- 2020年RAID（CCF B）的论文；
+- 提出了FoolsGold算法，使用余弦相似度测量更新之间的角度距离。
+
+#### 《Robust Federated Learning with Attack-Adaptive Aggregation》
+
+- 2021年IJCAI（CCF A）的论文；
+- 利用QKV向量计算余弦相似度。
+
+#### 《Defending against Backdoors in Federated Learning with Robust Learning Rate》
+
+- 2021年AAAI（CCF A）的论文；
+- 提出了RLR算法，根据梯度符号来调整客户端学习率。
+
+#### 《Secure Partial Aggregation: Making Federated Learning More Robust for Industry 4.0 Applications》
+
+- 2022年T IND INFORM（SCI 1区）的论文；
+- 提出了PartFedAvg算法，限制参数上传比例。
+
+### 联邦学习攻击
+
+#### 《How To Backdoor Federated Learning》
+
+- 2020年PMLR（机器学习顶刊，不在CCF列表）的论文；
+- 首个针对模型投毒的联邦学习后门攻击。
+
+#### 《Attack of the Tails: Yes, You Really Can Backdoor Federated》
+
+- 2020年NIPS（CCF A）的论文；
+- 提出了基于边界情况的各种后门攻击。
+

@@ -45,11 +45,6 @@
 - 2021年ICML（CCF A）的论文；
 - 提出了Ditto算法，引入正则项平衡公平性和鲁棒性要求。
 
-#### 《FedProto: Federated Prototype Learning across Heterogeneous Clients》
-
-- 2022年AAAI（CCF A）的论文；
-- 提出了FedProto算法，是小样本联邦学习。
-
 ### 联邦学习防御
 
 #### 《Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates》
@@ -89,3 +84,9 @@
 - 2020年NIPS（CCF A）的论文；
 - 提出了基于边界情况的各种后门攻击。
 
+### 小样本学习
+
+#### 《FedProto: Federated Prototype Learning across Heterogeneous Clients》
+
+- 2022年AAAI（CCF A）的论文；
+- 提出了FedProto算法，是小样本联邦学习。
